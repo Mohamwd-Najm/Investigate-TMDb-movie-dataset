@@ -11,7 +11,7 @@ gathering: the data by downloading it and import it using pandas.
 Assessing and define: Assessing the dataset by two ways: Visually and programmatically to explore it and then define all what it need to cleaned which will be showen later.
 Data cleaning: in this phase clean all what mentioned above.
 Data Analysis: get insight and answer question using the dataset.
-
+ 
 And want to use it to answer some questions like:
 
 What is the most popular genre?
