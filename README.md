@@ -21,7 +21,7 @@ Do top ratings movies always generate big revenue?
 Do higher budget movies always generate big revenue?
 
 Is there any impact of vote count on revenue?
-
+ 
 Is there ang corrolation between revenue and budget? 
 
 And more question.
